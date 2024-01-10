@@ -2,6 +2,10 @@
 
 Hello! I'm Ivano of TR Seeds, welcome!
 
+## REPOs
+- [Leveraged AI to create API Functional Tests](https://github.com/im-trs/ai-in-api-functional-testing)
+
+
 ## 👋 About Us
 - 🌐 We're TR Seeds, a UK-based software testing consultancy.
 - 💼 Specializing in agile, manual, and automated testing.
