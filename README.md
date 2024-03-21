@@ -4,7 +4,7 @@ Hello! I'm Ivano of TR Seeds, welcome!
 
 ## REPOs
 - [Leveraged AI to create API Functional Tests](https://github.com/im-trs/ai-in-api-functional-testing)
-- [A Step-by-Step Tutorial on Using Google Gemini Vision API with Node.js]([https://github.com/im-trs/ai-in-api-functional-testing](https://github.com/im-trs/google-gemini-api)
+- [A Step-by-Step Tutorial on Using Google Gemini Vision API with Node.js](https://github.com/im-trs/google-gemini-api)
 
 
 ## 👋 About Us
